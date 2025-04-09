@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community  # Add this line
+python-dotenv
+sentence-transformers
+faiss-cpu
+pandas
+huggingface-hub
